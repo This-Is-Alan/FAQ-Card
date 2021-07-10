@@ -50,7 +50,7 @@ body {
 .img__wrapper {
   /* flex-grow: 1; */
   width: 50%;
-  background-image: url(../images/illustration-woman-online-desktop.svg), url(../images/bg-pattern-desktop.svg);
+  background-image: url(images/illustration-woman-online-desktop.svg), url(images/bg-pattern-desktop.svg);
   background-repeat: no-repeat, no-repeat;
   /* background-size: auto, 200%; */
   background-position-x: -83px, -562px;
